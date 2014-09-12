@@ -21,8 +21,11 @@ Active Record
 Extras:
 
 Going Through Sinatra Skeleton
+
 RESTful Routing
+
 Commit Messages (The Right Way)
+
 GIT
 
 
