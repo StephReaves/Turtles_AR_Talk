@@ -19,7 +19,7 @@ gem 'rake'
 gem 'shotgun'
 gem 'faker'
 
-gem 'bcrypt'
+gem 'bcrypt' #=> Look Up For Authentication
 gem 'bcrypt-ruby'
 
 group :test do
