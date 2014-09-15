@@ -9,7 +9,13 @@ Great Blog Post by DBC Alum:
 
 http://juliusjung.info/blog/2014/08/02/introduction-to-active-record/
 
-Possible Things to Go Over:
+More Helpful Resources:
+
+* http://guides.rubyonrails.org/active_record_querying.html
+* http://guides.rubyonrails.org/active_record_validations.html
+
+
+Things to Go Over:
 
 Active Record
   * Associations (Many-Many, One-Many, One-One)
